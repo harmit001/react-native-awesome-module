@@ -36,13 +36,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/harmit001/test/react-native-awesome-module",
+  "repository": "https://github.com/harmit001/react-native-awesome-module",
   "author": "Harmit Mendapara <harmit.mendapara@aliansoftware.net> (https://github.com/harmit001/test)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/harmit001/test/react-native-awesome-module/issues"
+    "url": "https://github.com/harmit001/react-native-awesome-module/issues"
   },
-  "homepage": "https://github.com/harmit001/test/react-native-awesome-module#readme",
+  "homepage": "https://github.com/harmit001/react-native-awesome-module#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
